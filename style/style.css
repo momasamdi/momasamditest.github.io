@@ -7,7 +7,7 @@ html
 
 body
 { font: normal .80em trebuchet ms, sans-serif;
-  background: rgb(207, 206, 206);
+  background: #EEE;
   color: #5D5D5D;}
 
 p
@@ -113,7 +113,7 @@ ol li
 #logo h2
 { font-size: 120%;
   padding: 4px 0 0 0;
-  color: rgb(96, 97, 85);}
+  color: #A8AA94;}
 
 #logo h1, #logo h1 a, #logo h1 a:hover 
 { padding: 22px 0 0 0;
